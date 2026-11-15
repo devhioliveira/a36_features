@@ -11,7 +11,7 @@
 ![Device](https://img.shields.io/badge/Device-Galaxy%20A36%205G-1428A0?logo=samsung&logoColor=white)
 ![Source](https://img.shields.io/badge/Source-Galaxy%20S25%20(S931B)-blueviolet)
 
-[Support](#-support--community) •
+[Support](#-support--community)
 
 </div>
 
